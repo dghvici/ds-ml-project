@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dana_/Data%20Science%20Notebooks/ml-project-data/mlruns/0/84c979b082c74b2692c3f7eca72130c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84c979b082c74b2692c3f7eca72130c7
+run_name: useful-kite-115
+run_uuid: 84c979b082c74b2692c3f7eca72130c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711386435911
+status: 1
+tags: []
+user_id: dana_
